@@ -1,2 +1,2 @@
-eval(process.env.K)
-// K
+const K=process.env.K
+eval(K)
